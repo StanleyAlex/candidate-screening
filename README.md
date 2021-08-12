@@ -1,4 +1,4 @@
-# candidate-screening-v1
+# candidate-screening-v2
 
 In order to be selected to the next round of the interview process, the candidate needs to complete
 this project with the following requirements.
