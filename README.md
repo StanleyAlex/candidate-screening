@@ -5,9 +5,12 @@ this project with the following requirements.
 
 
 ## Feature Requirements
-Follow this tutorial to create a todo application: https://www.educative.io/blog/react-hooks-tutorial-todo-list.
-Add an ability to create a due date for each task. The end user should be able to pick or enter
-a date for each todo item. Show off your design skill to make it easy and intuitive for user to use your app
+
+Follow this tutorial as reference to create a shopping list application using ReactJS: https://www.freecodecamp.org/news/how-to-build-a-shopping-list-using-react-hooks-w-starter-code-and-video-walkthrough/
+
+Additional Requirements:
+1. Allow end user to enter the price for each item and calculate total price for the entire shopping list with a tax of 8.25%
+2. Shopping list must be stored in the local storage.
 
 
 
