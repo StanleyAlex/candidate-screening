@@ -23,7 +23,7 @@ on github.
 1. Integrate https://material-ui.com/ to this project and use it as the UI framework
 1. Using jest (according to this tutorial: https://jestjs.io/docs/tutorial-react) to write unit tests (only snapshot
 testing is required) for your application and ensure 100% code coverage
-1. Integrate Testcafe from https://testcafe.io/ and write the automation test cases to test
+1. OPTIONAL: Integrate Testcafe from https://testcafe.io/ and write the automation test cases to test
 your application. Make sure that you write all test cases to cover the entire functionalities.
 
 
