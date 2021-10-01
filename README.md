@@ -18,7 +18,7 @@ Additional Requirements:
 1. Copy this project to your account in Github as a public project,
 for example (https://github.com/your-username/candidate-screening-project)
 and use it as your submission
-1. Complete the project on or before July 8th, 2021 at 11:59 PM CST. Once completed,
+1. Complete the project on or before the deadline. Once completed,
 send an email to [duy.nguyen@sabre.com](duy.nguyen@sabre.com) and [stanley.alexdevadoss@sabre.com](stanley.alexdevadoss@sabre.com)
 with the subject "{First Name} - Screening Project: COMPLETED". In the body of the email provide your name, the URL to the forked project
 on github.
